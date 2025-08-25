@@ -1,7 +1,7 @@
 ## Hi there ,I am Fatema Tuz Zohura 🤖
 ## Machine Learning Enthusiast 💡
 
-![Funny GIF](https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif)
+![Funny GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s)
 <!--
 **sawelmohammad6/sawelmohammad6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
